@@ -1,5 +1,8 @@
 # Personal Config for OpenCore
 
+## Scheme 
+
+![scheme](scheme.png)
 ## Setup
 
 + **Processor**: Ryzen 5 3600
