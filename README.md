@@ -9,6 +9,7 @@
 + **MoBo**: ASUS TUF B450 PLUS GAMING
 + **RAM**: 16GB DDR4
 + **Video**: GIGABYTE RADEON 5700 XT
++ **Hard drive** Crucial P1 1TB NVMe
 
 ## About config.plist
 
